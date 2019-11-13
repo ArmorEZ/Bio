@@ -1,0 +1,156 @@
+body, html {
+	font-family: Italic, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+
+div {
+   box-sizing: border-box;
+
+}
+
+
+header {
+   background: url(../img/background.jpg) no-repeat center top / cover;
+   height: 840px;
+}
+
+
+.Bio {
+	height: 800px;
+	float: right;
+	margin-right: -155px;
+	margin-top: 86px;
+}
+.container {
+	width: 955px;
+	margin: 0 auto;
+}
+
+.logofirst {
+  margin-top: 62px;
+}
+
+h1 {
+    height: 80px;
+    margin-top: 184px;
+    text-align: left;
+}
+
+.titles__first {
+   font-size: 22px;
+   color: #91daf6;
+   margin-top: 25px;
+   font-family: Georgia Italic;
+}
+
+h2 {
+   margin-top: 60px;
+   color: #85cef5; 
+   font-size: 35px;
+   text-transform: uppercase;
+}
+
+.title {
+	color: #858585;
+	font-family: Georgia Italic;
+	font-size: 18px;
+	line-height: 1.6em;
+}
+
+.tochki {
+	margin-top: 34px;
+	display: block;
+}
+
+.blockfirst {
+	margin-top: 57px;
+	float: left;
+} 
+
+.blocksecond {
+	margin-top: 57px;
+	float: right;
+	margin-right: -155px;
+}
+
+
+.logof {
+	margin-top: 100px;
+}
+
+.f {
+	margin-top: 50px;
+}
+
+.button {
+	background: #080c11;
+	color: #ffffff;
+	border-radius: 3px;
+	display: block;
+	width: 540px;
+	padding: 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Georgia Italic;
+	font-size: 18px;
+	margin-top: 30px;
+}
+
+.email {
+	float: right;
+}
+
+#footerbuttons {
+  float: right;
+  margin-top: -220px;
+  display: block;
+  margin-right: -175px;
+}
+
+.buttonO {
+    background: #ffaa16;
+    margin-right: 20px;
+    padding: 24px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.buttonP {
+	background: #ec5b95;
+	margin-right: 20px;
+	padding: 24px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.buttonS {
+	background: #00aeef;
+	margin-right: 20px;
+	padding: 23.8px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.buttonB {
+	background: #0054a6;
+    margin-right: 20px;
+    padding: 26.3px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+footer {
+	background: url(../img/backfooter.jpg) no-repeat center top / cover;
+	height: 870px;
+}
+
+
+
+
+
+
+
+
+
